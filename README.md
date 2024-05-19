@@ -6,3 +6,10 @@ Iniciar el proyecto :
 2-Entra a tu editor de codigi y abre la sub-carpeta llamada mi proyecto 
 3-Abre una terminar y utiliza el siguiente comando "python manage.py runserver"
 4-copia la direccion de local host que de proporciona y ya podras usar el proyecto
+
+
+Extensiones recomendas(si trabajas en vscode)
+-Bootstrap 5 Quick Snippets
+-Error Lens
+-indent-rainbow
+-Material Icon Theme
